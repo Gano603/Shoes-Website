@@ -1,0 +1,43 @@
+.newsletter{
+    background-color: white;
+    height: 37vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    >p{
+        color: rgb(27, 27, 27);
+        font-size: 1.7rem;
+        font-weight: 600;
+        font-family: 'Open Sans', sans-serif;
+    }
+    >svg{
+        font-size: 2.2rem;
+    }
+    >div{
+        display: flex;
+        align-items: center;
+        >input{
+            height: 2.5rem;
+            width: 17rem;
+            border: 1px solid rgb(209, 209, 209);
+            outline: none;
+            padding:  0 0.7rem;
+            font-size: 1.1rem;
+        }
+        >button{
+            margin: 1rem 0;
+            padding: 0.6rem 1.5rem;
+            font-size: 1.1rem;
+            background-color: black;
+            border: none;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            transition: 0.5s ease;
+        }
+    }
+}
