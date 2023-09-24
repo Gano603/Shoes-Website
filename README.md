@@ -1,6 +1,6 @@
 # Shoes Website Front-End Practice Project
 
-![CODDI](src/assets/img/DSC09180_b72d3bcb-78e3-40f0-bf3b-fc7e95723bdc_1512x.jpg)
+![CODDI](src/assets/coddi-shoe-website-example.jpg.webp)
 
 ## Description
 
@@ -27,7 +27,7 @@ This repository contains a front-end practice project for building a simple onli
 
 Here's a screenshot of the CODDI website:
 
-![CODDI](src/assets/img/DSC09180_b72d3bcb-78e3-40f0-bf3b-fc7e95723bdc_1512x.jpg)
+![CODDI](src/assets/coddi-shoe-website-example.jpg.webp)
 
 Feel free to fork and expand upon this front-end project to further enhance your skills. Happy coding!
 
